@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujan2308
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python , ai and ml , sql
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning python , sql , ms excel
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me kumar7sujan7@gmail.com
 
 <!---
